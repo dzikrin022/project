@@ -18,4 +18,7 @@
 5. NOMOR LIMA
     Pada soal ini saya kasih nama 5.py. Saya menyelesaikan soal ini dengan menggunakan bahasa pemrograman python 3.4.1. Untuk menjalankannya, kakak bisa buka file tersebut dengan menggunakan Python(GUI)/IDLE, setelah di Run, kakak bisa melakukan pengecekan perhitungan jumlah mie dengan cara memanggil fungsinya yang mana nama fungsinya adalah buyNoodle, kemudian kakak masukan tanggal dan uangnya ke dalam tanda kurung (). Contoh:
     >>buyNoodle(25,50000)
+
+6. NOMOR ENAM.
+    Untuk nomor ini saya hanya sampai memasukan value-value ke dalam masing-masing tabel.
       
